@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Angelina2007-a
-- 👀 I’m interested in movies
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python partner
+- 👀 I’m interested in movie
+- 🌱 I’m currently learning Github
+- 💞️ I’m looking for python partner
 - 📫 How to reach me loyality
 - 😄 Pronouns: bla bla bla bla
-- ⚡ Fun fact:🤎
+- ⚡ Fun fact:Chocolate improves your memory
 
 <!---
 Angelina2007-a/Angelina2007-a is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
